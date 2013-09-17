@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>herbe.bmp</Source>
+      <Name>herbe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\herbe.xnb</Output>
+      <Time>2013-08-03T18:48:35.4046485+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Default.bmp</Source>
+      <Name>Default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\Default.xnb</Output>
+      <Time>2013-08-03T19:02:59.998156+02:00</Time>
+    </Item>
+    <Item>
+      <Source>champ.bmp</Source>
+      <Name>champ</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\champ.xnb</Output>
+      <Time>2013-08-03T19:25:05.9562162+02:00</Time>
+    </Item>
+    <Item>
+      <Source>grassBord.png</Source>
+      <Name>grassBord</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\grassBord.xnb</Output>
+      <Time>2013-08-04T17:22:41.2958667+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Toes and Water_0.mp3</Source>
+      <Name>Toes and Water_0</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\Toes and Water_0.xnb</Output>
+      <Extra>C:\Users\Guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\Toes and Water_0.wma</Extra>
+      <Time>2013-08-07T23:56:27.0192364+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Eau.png</Source>
+      <Name>Eau</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\Eau.xnb</Output>
+      <Time>2013-08-08T00:07:38.7665484+02:00</Time>
+    </Item>
+    <Item>
+      <Source>grass.png</Source>
+      <Name>grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\grass.xnb</Output>
+      <Time>2011-11-30T19:25:50.6895247+01:00</Time>
+    </Item>
+    <Item>
+      <Source>butterfly.png</Source>
+      <Name>butterfly</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\butterfly.xnb</Output>
+      <Time>2013-08-08T13:58:39.097286+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProjectContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-04-23T20:18:50.1098511+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

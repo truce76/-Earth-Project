@@ -1,0 +1,15 @@
+c:\users\guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\EarthProject.exe
+c:\users\guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\EarthProject.pdb
+c:\users\guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\obj\x86\Debug\EarthProject.csprojResolveAssemblyReference.cache
+c:\users\guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\obj\x86\Debug\EarthProject.exe
+c:\users\guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\obj\x86\Debug\EarthProject.pdb
+c:\users\guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\herbe.xnb
+c:\users\guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\Default.xnb
+c:\users\guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\champ.xnb
+C:\Users\Guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\grassBord.xnb
+C:\Users\Guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\Toes and Water_0.xnb
+C:\Users\Guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\Toes and Water_0.wma
+C:\Users\Guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\Eau.xnb
+C:\Users\Guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\grass.xnb
+C:\Users\Guillaume\documents\visual studio 2010\Projects\EarthProject\EarthProject\EarthProject\bin\x86\Debug\Content\butterfly.xnb
